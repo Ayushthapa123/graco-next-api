@@ -4,7 +4,7 @@ A GraphQL pass-through API built with Next.js that interfaces with Commercetools
 
 ## Overview
 
-This project is a GraphQL pass-through API that acts as a middleware between your application and Commercetools' APIs. It's built using Next.js, though it's specifically used as a backend service rather than a full-stack application. Currently, it implements two main functionalities as a Proof of Concept (POC):
+This project is a GraphQL pass-through API that acts as a middle layer between your application and Commercetools' APIs. It's built using Next.js, though it's specifically used as a full-stack rather than a backend. Currently, it implements two main functionalities as a Proof of Concept (POC):
 
 - Product details retrieval
 - Categories retrieval
